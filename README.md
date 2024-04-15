@@ -1,16 +1,51 @@
-### Hi there 👋
+[![Header](./images/cover.png "Header")](https://www.payalkatiyar.com/)
 
-<!--
-**Payalkatiyar/payalkatiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+<a href="https://github.com/payalkatiyar" target="_blank">
+    <img src="./images/logos/github.png" height="30px">
+</a>
+<a href="https://www.linkedin.com/in/payalkatiyar" target="_blank">
+    <img src="./images/logos/linkedin.png" height="30px">
+</a>
+<a href="https://www.leetcode.com/payalkatiyar" target="_blank">
+    <img src="./images/logos/leetcode.png" height="30px">
+</a>
+<a href="https://www.x.com/payalkatiyar" target="_blank">
+    <img src="./images/logos/x.png" height="30px">
+</a>
+<a href="https://www.codechef.com/users/payalkatiyar" target="_blank">
+    <img src="./images/logos/code-chef.png" height="30px">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+# I'm [Payal](https://www.linkedin.com/in/payalkatiyar)
+
+![Profile Views](https://komarev.com/ghpvc/?username=payalkatiyar&label=Profile%20views&color=0e75b6&style=flat)
+
+- 📝 &nbsp;You can find my portfolio [here](https://www.payalkatiyar.com).
+- 👨‍🎓 &nbsp;Pursuing my [B.Tech in CSE](https://www.srmist.edu.in).
+- 📫 &nbsp;You can contact me [here](mailto:contact@payalkatiyar.com).
+
+<br>
+
+<details open>
+
+<summary>🔥 &nbsp;Github Streak</summary>
+
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=payalkatiyar&theme=dark&border_radius=10)](https://git.io/streak-stats)
+
+</details>
+
+<details>
+
+<summary>🛠️ &nbsp;Tools & Frameworks</summary>
+
+<br>
+
+![Tools](https://skillicons.dev/icons?i=html,css,js,c,cpp,autocad,python,sql)
+
+</details>
