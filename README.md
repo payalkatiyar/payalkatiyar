@@ -11,7 +11,7 @@
 <a href="https://www.leetcode.com/payalkatiyar" target="_blank">
     <img src="./images/logos/leetcode.png" height="30px">
 </a>
-<a href="https://www.x.com/payalkatiyar" target="_blank">
+<a href="https://www.x.com/payalkatiyar_" target="_blank">
     <img src="./images/logos/x.png" height="30px">
 </a>
 <a href="https://www.codechef.com/users/payalkatiyar" target="_blank">
